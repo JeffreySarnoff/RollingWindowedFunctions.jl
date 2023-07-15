@@ -1,4 +1,4 @@
-module RollingFunctions
+module RollingWindowedFunctions
 
 using Base: @kwdef
 
